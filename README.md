@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Git+Client-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Fork (Git client) Free Installer** — Fork is a fast, friendly Git client for macOS and Windows. Works without internet access, no account required. Full offline installation.
+**💻 Fork (Git client) Free Installer** — Fork is a fast, free Git client for macOS and Windows with a beautiful visual commit graph, interactive rebase, built-in diff and merge tool, and LFS support. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Fork (Git client)
 
-Fork is a fast, friendly Git client for macOS and Windows. Features include a visual commit graph, interactive rebase, cherry-pick, blame view, and a diff viewer. Fork's performance and attention to macOS and Windows platform conventions make it a popular paid alternative among developers who want speed and a native feel in their Git GUI without the complexity of GitKraken.
+Fork is a fast, free Git client for macOS and Windows with a beautiful visual commit graph, interactive rebase, built-in diff and merge tool, and LFS support. Widely praised for its performance and feature completeness.
 
 ---
 
 ## ❌ Problem: Fork (Git client) is hard to access
 
-- **Commercial License** — Paid license required after extended trial
-- **No Linux Version** — macOS and Windows only
-- **GitHub Integration** — Less integrated with GitHub compared to GitHub Desktop
-- **Advanced Features** — Some very advanced Git operations still require command line
+- **Free with Nag Screen** — Fork is technically paid but fully functional with occasional payment reminder
+- **No Linux** — Not available on Linux
+- **Closed Source** — Unlike GitKraken or Git Extensions, source not available
+- **Payment Request** — Developer requests payment; some users uncomfortable with the nag model
 
 ---
 
@@ -121,7 +121,7 @@ Fork is a fast, friendly Git client for macOS and Windows. Features include a vi
 
 ---
 
-**Fork (Git client) Free Installer** — Fork is a fast, friendly Git client for macOS and Windows. Install without internet connection today!
+**Fork (Git client) Free Installer** — Fork is a fast, free Git client for macOS and Windows with a beautiful visual commit graph, interactive rebase, built-in diff and merge tool, and LFS support. Install without internet connection today!
 
 <div align="center">
 
